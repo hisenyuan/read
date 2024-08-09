@@ -1,3 +1,4 @@
+- [科技爱好者周刊（第 312 期）：从英特尔看"美国制造" - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html) 312期 #magazine
 
 # About
 
