@@ -1,3 +1,4 @@
+- [Neo的技术博客 广告系统的平台架构与交互流程](http://neoremind.com/2020/01/ad_system_architecture/) 互联网广告 #tech
 - [四层负载均衡漫谈 | 卡瓦邦噶！](https://www.kawabangga.com/posts/5301) 深入讲解负载均衡 #tech
 - [运气与努力](https://1byte.io/articles/luck/) 坚持终生学习+好的判断+运气 #essay
 - [性能优化之接口优化-是也](https://tech.taobao.org/news/ksm9l4) 包体积优化，有压测数据 #tech
