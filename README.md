@@ -1,3 +1,4 @@
+- [技术人员的发展之路 | 酷 壳 - CoolShell](https://coolshell.cn/articles/17583.html) 专心做技术 vs 职业经理人。多看多实践，在错误中学习，关注长远。 #tech
 - [ww23/BlindWatermark](https://github.com/ww23/BlindWatermark) Java 盲水印 #tech
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) 公网IP+DDNS回家 #homelab
 - [Searching 1.5TB/sec: Systems Engineering Before Algorithms](https://www.dataset.com/blog/systems-engineering-before-algorithms/) 日志检索,性能不等于算法，硬扫 1.5TB/s #tech
