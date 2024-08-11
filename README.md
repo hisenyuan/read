@@ -1,3 +1,4 @@
+- [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) 公网IP+DDNS回家 #homelab
 - [Searching 1.5TB/sec: Systems Engineering Before Algorithms](https://www.dataset.com/blog/systems-engineering-before-algorithms/) 日志检索,性能不等于算法，硬扫 1.5TB/s #tech
 - [Neo的技术博客 广告系统的平台架构与交互流程](http://neoremind.com/2020/01/ad_system_architecture/) 互联网广告 #tech
 - [四层负载均衡漫谈 | 卡瓦邦噶！](https://www.kawabangga.com/posts/5301) 深入讲解负载均衡 #tech
