@@ -1,3 +1,4 @@
+- [搭建可维护的 Golang 开发环境](https://soulteary.com/2022/07/04/build-a-maintainable-golang-development-environment.html) 简化环境，基础架构即代码：配置化、透明化、可复现。 #tech
 - [技术人员的发展之路 | 酷 壳 - CoolShell](https://coolshell.cn/articles/17583.html) 专心做技术 vs 职业经理人。多看多实践，在错误中学习，关注长远。 #tech
 - [ww23/BlindWatermark](https://github.com/ww23/BlindWatermark) Java 盲水印 #tech
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) 公网IP+DDNS回家 #homelab
