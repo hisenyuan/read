@@ -1,3 +1,4 @@
+- [「向量召回」相似检索算法——HNSW - 墨天轮](https://www.modb.pro/db/103254) ES向量检索基于 HNSW #tech
 - [一致性模型一句话总结](http://r12f.com/posts/summarizing-consistency-model/) 数据一致性 #tech
 - [搭建可维护的 Golang 开发环境](https://soulteary.com/2022/07/04/build-a-maintainable-golang-development-environment.html) 简化环境，基础架构即代码：配置化、透明化、可复现。 #tech
 - [技术人员的发展之路 | 酷 壳 - CoolShell](https://coolshell.cn/articles/17583.html) 专心做技术 vs 职业经理人。多看多实践，在错误中学习，关注长远。 #tech
