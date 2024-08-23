@@ -1,3 +1,4 @@
+- [朱松纯：浅谈人工智能](http://www.stat.ucla.edu/~sczhu/Blog_articles/%E6%B5%85%E8%B0%88%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.pdf) #tech
 - [「向量召回」相似检索算法——HNSW - 墨天轮](https://www.modb.pro/db/103254) ES向量检索基于 HNSW #tech
 - [一致性模型一句话总结](http://r12f.com/posts/summarizing-consistency-model/) 数据一致性 #tech
 - [搭建可维护的 Golang 开发环境](https://soulteary.com/2022/07/04/build-a-maintainable-golang-development-environment.html) 简化环境，基础架构即代码：配置化、透明化、可复现。 #tech
