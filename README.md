@@ -1,3 +1,4 @@
+- [Why I Code in the Cloud](https://codesandbox.io/blog/why-i-code-in-the-cloud) 云开发环境：快速、一致、协作 #tech
 - [从抄书到开源之巅：章亦春的程序人生](https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTUwOQ==&mid=2247484745&idx=1&sn=fceed456f84ebed15708421115a4f296&source=41#wechat_redirect) openresty 作者经历 #essay
 - [Putting the "You" in CPU](https://cpu.land/) 如果你是CPU，免费英文书籍 #tech
 - [朱松纯：浅谈人工智能](http://www.stat.ucla.edu/~sczhu/Blog_articles/%E6%B5%85%E8%B0%88%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.pdf) #tech
