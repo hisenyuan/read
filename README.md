@@ -1,3 +1,4 @@
+- [值得一读的大模型生成幻觉研究综述：大模型幻觉的起因、评估以及减轻策略总结 - 智源社区](https://hub.baai.ac.cn/view/30539) 大模型幻觉：输入冲突、语境冲突、事实冲突 #tech
 - [Why I Code in the Cloud](https://codesandbox.io/blog/why-i-code-in-the-cloud) 云开发环境：快速、一致、协作 #tech
 - [从抄书到开源之巅：章亦春的程序人生](https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTUwOQ==&mid=2247484745&idx=1&sn=fceed456f84ebed15708421115a4f296&source=41#wechat_redirect) openresty 作者经历 #essay
 - [Putting the "You" in CPU](https://cpu.land/) 如果你是CPU，免费英文书籍 #tech
