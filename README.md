@@ -1,3 +1,4 @@
+- [RFC 9562: Universally Unique IDentifiers (UUIDs)](https://datatracker.ietf.org/doc/html/rfc9562) UUIDs 标准 #tech
 - [Eden* Architect - 脚手架](https://github.com/shiyindaxiaojie/eden-architect) 架构图画的不错，也集成了 Cola #tech
 - [状态机电商实战之 Cola-StateMachine - 掘金](https://juejin.cn/post/7290727062145499175) 状态机写的不错：from to on when perform(execute) #tech
 - [1.大模型幻觉 - LLM - Interview - GIthub](https://github.com/wdndev/llm_interview_note/blob/main/09.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0/1.%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B9%BB%E8%A7%89/1.%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B9%BB%E8%A7%89.md) 关于幻觉的文章，比较白话。 #tech
