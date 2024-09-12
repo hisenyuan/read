@@ -1,3 +1,4 @@
+- [李沐讲座：大语言模型的实践经验和未来预测 | 上海交大| 转载](https://www.youtube.com/watch?v=ziHUcDh0DwM) 李沐分享：LLM 与硬件，工作经历与个人成长 #tech
 - [从零开始学习大语言模型（一）](https://www.youtube.com/watch?v=biMrHwwsK-M) 通俗易懂的LLM视频科普 #tech
 - [值得一读的大模型生成幻觉研究综述：大模型幻觉的起因、评估以及减轻策略总结 - 智源社区](https://hub.baai.ac.cn/view/30539) 大模型幻觉：输入冲突、语境冲突、事实冲突 #tech
 - [Why I Code in the Cloud](https://codesandbox.io/blog/why-i-code-in-the-cloud) 云开发环境：快速、一致、协作 #tech
