@@ -1,3 +1,4 @@
+- [状态机电商实战之 Cola-StateMachine - 掘金](https://juejin.cn/post/7290727062145499175) 状态机写的不错：from to on when perform(execute) #tech
 - [1.大模型幻觉 - LLM - Interview - GIthub](https://github.com/wdndev/llm_interview_note/blob/main/09.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0/1.%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B9%BB%E8%A7%89/1.%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B9%BB%E8%A7%89.md) 关于幻觉的文章，比较白话。 #tech
 - [李沐讲座：大语言模型的实践经验和未来预测 | 上海交大| 转载](https://www.youtube.com/watch?v=ziHUcDh0DwM) 李沐分享：LLM 与硬件，工作经历与个人成长 #tech
 - [从零开始学习大语言模型（一）](https://www.youtube.com/watch?v=biMrHwwsK-M) 通俗易懂的LLM视频科普 #tech
