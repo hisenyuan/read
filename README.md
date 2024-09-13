@@ -1,3 +1,4 @@
+- [Full Text Search over Postgres: Elasticsearch vs. Alternatives](https://www.paradedb.com/blog/elasticsearch_vs_postgres) 全文检索:ES(BM25),PG(tsvector) #tech
 - [How does cosine similarity work?](https://tomhazledine.com/cosine-similarity/) 解释 js 版本的余弦相似计算 #essay
 - [RFC 9562: Universally Unique IDentifiers (UUIDs)](https://datatracker.ietf.org/doc/html/rfc9562) UUIDs 标准 #tech
 - [Eden* Architect - 脚手架](https://github.com/shiyindaxiaojie/eden-architect) 架构图画的不错，也集成了 Cola #tech
