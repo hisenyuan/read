@@ -1,3 +1,4 @@
+- [How does cosine similarity work?](https://tomhazledine.com/cosine-similarity/) 解释 js 版本的余弦相似计算 #essay
 - [RFC 9562: Universally Unique IDentifiers (UUIDs)](https://datatracker.ietf.org/doc/html/rfc9562) UUIDs 标准 #tech
 - [Eden* Architect - 脚手架](https://github.com/shiyindaxiaojie/eden-architect) 架构图画的不错，也集成了 Cola #tech
 - [状态机电商实战之 Cola-StateMachine - 掘金](https://juejin.cn/post/7290727062145499175) 状态机写的不错：from to on when perform(execute) #tech
