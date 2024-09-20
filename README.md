@@ -1,3 +1,4 @@
+- [Why don't more people use Linux?](https://world.hey.com/dhh/why-don-t-more-people-use-linux-33b75f53) 主要是有门槛 #essay
 - [如何设计2.5G家用内网 - 少数派](https://sspai.com/post/85095) 很不错的组网文章 #homelab
 - [Full Text Search over Postgres: Elasticsearch vs. Alternatives](https://www.paradedb.com/blog/elasticsearch_vs_postgres) 全文检索:ES(BM25),PG(tsvector) #tech
 - [How does cosine similarity work?](https://tomhazledine.com/cosine-similarity/) 解释 js 版本的余弦相似计算 #essay
