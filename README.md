@@ -1,3 +1,4 @@
+- [如何拍出爆款视频-1](http://splet.4a.si/dir/How-To-Succeed-At-MrBeast-Production.pdf) #essay
 - [Why don't more people use Linux?](https://world.hey.com/dhh/why-don-t-more-people-use-linux-33b75f53) 主要是有门槛 #essay
 - [如何设计2.5G家用内网 - 少数派](https://sspai.com/post/85095) 很不错的组网文章 #homelab
 - [Full Text Search over Postgres: Elasticsearch vs. Alternatives](https://www.paradedb.com/blog/elasticsearch_vs_postgres) 全文检索:ES(BM25),PG(tsvector) #tech
