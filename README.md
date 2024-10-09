@@ -1,3 +1,4 @@
+- [Use the SQL plugin to create an entity relationship diagram](https://www.drawio.com/doc/faq/sql-plugin) 通过SQL生成图表-略简陋-drawio #tech
 - [TCP Fast Open](https://dbwu.tech/posts/network/what-is-tcp-fast-open/) TCP什么时候不需要三次握手 #tech
 - [如何拍出爆款视频-1](http://splet.4a.si/dir/How-To-Succeed-At-MrBeast-Production.pdf) #essay
 - [Why don't more people use Linux?](https://world.hey.com/dhh/why-don-t-more-people-use-linux-33b75f53) 主要是有门槛 #essay
