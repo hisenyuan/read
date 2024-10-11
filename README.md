@@ -1,3 +1,4 @@
+- [LLM & 书签 --生产--> 摘要 & 全文索引](https://nekonull.me/posts/llm_x_bookmark/) 我用 Notion 解决 URL 不可达 #homelab
 - [Server Setup Basics - 服务器架设基础操作](https://becomesovran.com/blog/server-setup-basics.html) #homelab
 - [Use the SQL plugin to create an entity relationship diagram](https://www.drawio.com/doc/faq/sql-plugin) 通过SQL生成图表-略简陋-drawio #tech
 - [TCP Fast Open](https://dbwu.tech/posts/network/what-is-tcp-fast-open/) TCP什么时候不需要三次握手 #tech
