@@ -1,3 +1,4 @@
+- [Server Setup Basics - 服务器架设基础操作](https://becomesovran.com/blog/server-setup-basics.html) #homelab
 - [Use the SQL plugin to create an entity relationship diagram](https://www.drawio.com/doc/faq/sql-plugin) 通过SQL生成图表-略简陋-drawio #tech
 - [TCP Fast Open](https://dbwu.tech/posts/network/what-is-tcp-fast-open/) TCP什么时候不需要三次握手 #tech
 - [如何拍出爆款视频-1](http://splet.4a.si/dir/How-To-Succeed-At-MrBeast-Production.pdf) #essay
