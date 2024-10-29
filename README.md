@@ -1,3 +1,4 @@
+- [搜广推算法系列串讲 - GIthub](https://github.com/Doragd/Algorithm-Practice-in-Industry/blob/main/%E6%90%9C%E5%B9%BF%E6%8E%A8%E7%AE%97%E6%B3%95%E7%B3%BB%E5%88%97%E4%B8%B2%E8%AE%B2.md#%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%8F%91%E5%B1%95) #tech
 - [推荐工程全解 - 整体架构 - 博客园](https://www.cnblogs.com/gnivor/p/17626391.html) 推荐工程概览 #tech
 - [OpenWrt One Product photo](https://docs.banana-pi.org/en/OpenWRT-One/OpenWRT-One_Photo) #homelab
 - [OpenWrt One / status update](https://lists.openwrt.org/pipermail/openwrt-devel/2024-September/043144.html)  OpenWrt官方路由器|香橙派代工|85刀？ #homelab
