@@ -1,3 +1,4 @@
+- [Introduction · Reverse Engineering](https://0xinfection.github.io/reversing/) 逆向工程 #tech
 - [DS4SD/docling](https://github.com/DS4SD/docling) 文档处理成 md / json #tech
 - [多模态大语言模型 LlaVA 论文解读：Visual Instruction Tuning在这篇论文中，作者首次尝试使用 - 掘金](https://juejin.cn/post/7248878483328647226) #tech
 - [系统设计面试：内幕指南 - Alex Xu](https://learning-guide.gitbook.io/system-design-interview/) 中译本
