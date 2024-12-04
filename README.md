@@ -1,3 +1,4 @@
+- [看见概率论 - 通过交互式演示理解经典概率论定理](https://probability.visualized.fun/) #essay
 - [Introduction · Reverse Engineering](https://0xinfection.github.io/reversing/) 逆向工程 #tech
 - [DS4SD/docling](https://github.com/DS4SD/docling) 文档处理成 md / json #tech
 - [多模态大语言模型 LlaVA 论文解读：Visual Instruction Tuning在这篇论文中，作者首次尝试使用 - 掘金](https://juejin.cn/post/7248878483328647226) #tech
