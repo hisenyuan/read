@@ -1,3 +1,4 @@
+- [求甚解的精神](http://scz.617.cn:8/) 怎么利用AI提效 #essay
 - [看见概率论 - 通过交互式演示理解经典概率论定理](https://probability.visualized.fun/) #essay
 - [Introduction · Reverse Engineering](https://0xinfection.github.io/reversing/) 逆向工程 #tech
 - [DS4SD/docling](https://github.com/DS4SD/docling) 文档处理成 md / json #tech
